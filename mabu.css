@@ -1,0 +1,16 @@
+body
+{
+    background-color: rgb(106, 209, 106);
+}
+input{
+    left: 550px;
+    position: relative;
+}
+button{
+    left: 550px;
+    position: relative;
+}
+div{
+    left: 550px;
+    position: relative;
+}
